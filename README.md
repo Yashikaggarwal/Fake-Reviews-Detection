@@ -1,4 +1,4 @@
-# fake-reviews-detection
+# Unmasking Deception
 In this research paper, we explore the performance of various machine learning models for text classification.
 The first step in the analysis involves preprocessing the text data, including tokenization, removing stop words, and applying other text cleaning techniques. The data is then transformed into numerical features using the Bag-of-Words approach and weighted using TF-IDF (Term Frequency-Inverse Document Frequency) scheme.
 
